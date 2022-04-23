@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Words and Phrases" />
         <p className="description">
-          Notes and Thoughts <code>const expressedAs = "code";</code>
+          Notes on processes <code>const expressedAs = "code";</code>
         </p>
       </main>
 
