@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Words and Phrases" />
+
         <p className="description">
           Notes on processes
         </p>
