@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Words and Phrases" />
         <p className="description">
-          Notes on processes <code>expressedAs = "code";</code>
+          Notes on processes
         </p>
       </main>
 
